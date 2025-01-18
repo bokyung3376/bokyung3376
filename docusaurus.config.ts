@@ -8,7 +8,7 @@ const config: Config = {
     // TODO: fix title, tagline, favicon
     title: 'Bo Kyung Kim Website',
     tagline: 'Bo Kyung Kim',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/statistics.ico',
 
     // TODO( github project link )
     url: 'https://seonWKim.github.io',
